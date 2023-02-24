@@ -23,7 +23,15 @@ public class Blala{
 		asdasd
 		locatori
 		sda
-	]}
+	}
+	
+	@Test
+	public void Test2(){
+		driver
+		asdasd
+		locatori
+		sda
+	}
 	
 	@AfterTest
 	public void tearDown(){
