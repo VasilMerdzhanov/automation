@@ -17,6 +17,14 @@ public class Blala{
 		
 	}
 	
+	@Test
+	public void Test2(){
+		driver
+		asdasd
+		locatori
+		sda
+	]}
+	
 	@AfterTest
 	public void tearDown(){
 
